@@ -1,0 +1,17 @@
+.country {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background-color: rgb(146, 130, 130);
+  border: 2px solid rgb(191, 211, 211);
+  padding: 20px;
+  border-radius: 10px;
+}
+.country h3,
+p {
+  color: white;
+}
+.country img {
+  margin-left: 20px;
+  width: 200px;
+}
